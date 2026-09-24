@@ -1,0 +1,26 @@
+Created QEMU launch parameters: D:\downloads\xemu.exe -machine xbox,bootrom=C:\Users\wflam\Downloads\Xbox-Emulator-Files\mcpx\mcpx_1.0.bin,kernel-irqchip=off,avpack=hdtv -device smbus-storage,file=C:\Users\wflam\AppData\Roaming\xemu\xemu\eeprom.bin -bios C:\Users\wflam\Downloads\Xbox-Emulator-Files\bios\Complex_4627.bin -m 128 -drive index=0,media=disk,file=C:\Users\wflam\Downloads\Xbox-Emulator-Files\hdd\xbox_hdd.qcow2,locked=on -drive index=1,media=cdrom,file=C:\Users\wflam\Downloads\Stubbs the Zombie in Rebel Without a Pulse (USA)\Stubbs the Zombie in Rebel Without a Pulse (USA).iso -display xemu -device usb-hub,port=1,ports=4 
+xemu_version: 0.8.136
+xemu_commit: fc24584ce88f0915ad7f04775bb7712c2e3f49ee
+xemu_date: Mon Jun  8 05:42:55 UTC 2026
+xemu_settings_get_base_path: base path: C:\Users\wflam\AppData\Roaming\xemu\xemu\
+xemu_settings_get_path: config path: C:\Users\wflam\AppData\Roaming\xemu\xemu\xemu.toml
+CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+OS_Version:  25H2
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: AMD Radeon (TM) RX 480
+GL_VERSION: 4.0.0 Core Profile Context 26.5.2.260413
+GL_SHADING_LANGUAGE_VERSION: 4.60
+GL geometry shader winding: 0, 0, 0, 0
+Available physical devices:
+- AMD Radeon (TM) RX 480 *
+- Intel(R) HD Graphics 630
+Selected physical device: AMD Radeon (TM) RX 480
+- Vendor: 1002, Device: 67df
+- Driver Version: 2.0.279
+Enabled device extensions:
+- VK_KHR_external_memory_win32
+- VK_KHR_external_semaphore_win32
+- VK_EXT_custom_border_color
+- VK_EXT_memory_budget
+VK geometry shader winding: 0, 0, 0, 0
+dsound: warning: Voice is not playing
