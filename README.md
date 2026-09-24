@@ -1,3 +1,3 @@
 # cool-beans
 
-[View xemu.log](./xemu.log)
+[View xemu.log](https://github.com/wflame529/cool-beans/blob/main/xemu.log)
